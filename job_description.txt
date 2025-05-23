@@ -1,0 +1,16 @@
+Machine Learning / NLP Intern – AI Research Lab
+
+We are looking for a passionate Machine Learning & NLP Intern to join our team and assist in developing intelligent systems that solve real-world problems.
+The ideal candidate should be comfortable with:
+
+Data preprocessing, cleaning, and analysis using Python (Pandas, NumPy)
+
+Building and evaluating machine learning models using scikit-learn, TensorFlow, or PyTorch
+
+Working with NLP libraries like spaCy, NLTK, or Hugging Face Transformers
+
+Deploying models or building lightweight applications using Flask or Streamlit
+
+Good understanding of EDA, feature engineering, and model evaluation techniques
+
+Prior experience with deep learning, CV, or chatbot development is a plus
