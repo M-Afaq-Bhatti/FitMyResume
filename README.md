@@ -6,3 +6,8 @@ FitMyResume is an intelligent NLP-powered web app that evaluates resumes against
 3. NLP-based resume-job matching using TF-IDF & cosine similarity
 4. Fit scores ranked in descending order
 5. Built with Python, Streamlit, and spaCy
+## How to Use
+1. Paste a job description into the text area.
+2. Upload one or more resume PDFs.
+3. Click "Analyze".
+4. View resume fit scores sorted from highest to lowest.
